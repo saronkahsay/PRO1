@@ -1,6 +1,9 @@
 # PRO1
 ite130 pro1
 
+## Introduktion
+Vi är en grupp studenter på MDU som arbetar med ett projekt. Projektet går ut på att beskriva ett digitalt system från sensor till visualisering som leder till kunskap. Vi har identifierat ett problem och målgrupp. Detta är vår lösning...
+
 ## Syfte
 Vår idé är att skapa en ljudmätare för lågstadiet som kan användas för att mäta ljudnivån i t.ex. klassrum. Syftet är att förbättra arbetsro i klassrummet, genom att uppmuntra till lägre ljudnivå. Den kan även användas i andra lokaler, som exempelvis bibliotek eller matsal. 
 
