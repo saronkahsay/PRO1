@@ -10,3 +10,8 @@ Målgruppen är klassrum i lågstaidet 6-10 år. Idén är tänkt för lärare o
 ## Problem
 Arbetsmiljön på 9 av 10 skolor är dålig
 Ljudnivån i lågstadieklassrum är bullrig - ett vanligt problem
+
+## Lösning/Idén 
+Vi vill utveckla decibelmätare som ska uppmuntra lågstadieelever att hålla en lugn ljudnivå
+  ### Hur funkar den ? 
+En decibelmätare samlar in data om ljudnivån, som skivkas till ett grafisk gränssnitt som presenterar datan 
