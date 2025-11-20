@@ -5,4 +5,8 @@ ite130 pro1
 Vår idé är att skapa en ljudmätare för lågstadiet som kan användas för att mäta ljudnivån i t.ex. klassrum. Syftet är att förbättra arbetsro i klassrummet, genom att uppmuntra till lägre ljudnivå. Den kan även användas i andra lokaler, som exempelvis bibliotek eller matsal. 
 
 ## Målgrupp
-Målgruppen är elever i lågstadiet, 6-10 år. Tänkta kunder är grundskolor. 
+Målgruppen är klassrum i lågstaidet 6-10 år. Idén är tänkt för lärare och deras elever.
+
+## Problem
+Arbetsmiljön på 9 av 10 skolor är dålig
+Ljudnivån i lågstadieklassrum är bullrig - ett vanligt problem
