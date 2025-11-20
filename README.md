@@ -14,4 +14,4 @@ Ljudnivån i lågstadieklassrum är bullrig - ett vanligt problem
 ## Lösning/Idén 
 Vi vill utveckla decibelmätare som ska uppmuntra lågstadieelever att hålla en lugn ljudnivå
   ### Hur funkar den ? 
-En decibelmätare samlar in data om ljudnivån, som skivkas till ett grafisk gränssnitt som presenterar datan 
+En decibelmätare samlar in data om ljudnivån, som skivkas till ett grafisk gränssnitt som presenterar datan, hej hej hej
