@@ -20,4 +20,6 @@ Elever med särskilda behov drabbas mest i högljudda klassrum, enligt majoritet
 ## Lösning/Idén 
 Vi vill utveckla decibelmätare som ska uppmuntra lågstadieelever att hålla en lugn ljudnivå
   ### Hur funkar den ? 
-En decibelmätare samlar in data om ljudnivån, som skivkas till ett grafisk gränssnitt som presenterar datan, hej hej hej
+En decibelmätare samlar in data om ljudnivån, som skivkas till ett grafisk gränssnitt som presenterar datan.
+
+https://studentmdh-my.sharepoint.com/:p:/r/personal/hei25002_student_mdu_se/Documents/PRO%201_Grupp%203.pptx?d=w0b6bdb318cc249c5b2b4a49c7f1e8c23&csf=1&web=1&e=EsWLCx
