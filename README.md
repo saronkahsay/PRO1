@@ -5,11 +5,11 @@ ite130 pro1, Grupp 3. Hajira, Saron, Julia, Oscar, Sabirin.
 Vi är en grupp studenter på MDU som arbetar med ett projekt. Projektet går ut på att beskriva ett digitalt system från sensor till visualisering som leder till kunskap. Vi har identifierat ett problem och målgrupp. Detta är vår lösning...
 
 ## Problem
-Arbetsmiljön på **9** av **10** skolor är dålig
-Ljudnivån i lågstadieklassrum är bullrig - ett vanligt problem
-Det är svårt att jobba ostört - både för lärare och elever
-En fjärdedel av lärarna uppgav att elever ofta får huvudvärk av buller
-Elever med särskilda behov drabbas mest i högljudda klassrum, enligt majoriteten av lärarna
+  - Arbetsmiljön på **9** av **10** skolor är dålig
+  - Ljudnivån i lågstadieklassrum är bullrig - ett vanligt problem
+  - Det är svårt att jobba ostört - både för lärare och elever
+  - En fjärdedel av lärarna uppgav att elever ofta får huvudvärk av buller
+  - Elever med särskilda behov drabbas mest i högljudda klassrum, enligt majoriteten av lärarna
 
 ## Syfte
 Vår idé är att skapa en ljudmätare för lågstadiet som kan användas för att mäta ljudnivån i t.ex. klassrum. Syftet är att förbättra arbetsro i klassrummet, genom att uppmuntra till lägre ljudnivå. Den kan även användas i andra lokaler, som exempelvis bibliotek eller matsal. 
@@ -42,5 +42,4 @@ https://studentmdh-my.sharepoint.com/:p:/r/personal/hei25002_student_mdu_se/Docu
 https://forskning.se/2025/03/06/lagpresterande-elever-mar-allt-samre/ 
 https://www.skolverket.se/larande-och-trygghet/trygghet-vardegrund-och-arbetsmiljo/arbetsmiljon-i-skola-och-forskola
 https://www.ecophon.com/sv/about-ecophon/newsroom/larare-bullriga-skolmiljoer-stressar-elever/?utm_source=chatgpt.com
-
 https://www.vilarare.se/nyheter/intervju/nio-av-tio-skolor-brister-i-arbetsmiljon/ 
