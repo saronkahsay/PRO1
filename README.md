@@ -36,5 +36,11 @@ Vår USP är att produkten riktar sig både till lärare och elever, och att gr�
 ## Vision 
 ### •	Hur ser framtiden ut om idén lyckas?
 Produkten kommer att göra det roligare för elever att tänka på ljudnivån, genom ett gränssnitt som är tilltalande för barn och som erbjuder tydlig, visuell feedback på ett lekfullt sätt. 
-
+### Presention 
 https://studentmdh-my.sharepoint.com/:p:/r/personal/hei25002_student_mdu_se/Documents/PRO%201_Grupp%203.pptx?d=w0b6bdb318cc249c5b2b4a49c7f1e8c23&csf=1&web=1&e=EsWLCx
+### Källor 
+https://forskning.se/2025/03/06/lagpresterande-elever-mar-allt-samre/ 
+https://www.skolverket.se/larande-och-trygghet/trygghet-vardegrund-och-arbetsmiljo/arbetsmiljon-i-skola-och-forskola
+https://www.ecophon.com/sv/about-ecophon/newsroom/larare-bullriga-skolmiljoer-stressar-elever/?utm_source=chatgpt.com
+
+https://www.vilarare.se/nyheter/intervju/nio-av-tio-skolor-brister-i-arbetsmiljon/ 
