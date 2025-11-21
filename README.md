@@ -1,5 +1,5 @@
 # PRO1
-ite130 pro1
+ite130 pro1, Grupp 3. Hajira, Saron, Julia, Oscar, Sabirin.
 
 ## Introduktion
 Vi är en grupp studenter på MDU som arbetar med ett projekt. Projektet går ut på att beskriva ett digitalt system från sensor till visualisering som leder till kunskap. Vi har identifierat ett problem och målgrupp. Detta är vår lösning...
