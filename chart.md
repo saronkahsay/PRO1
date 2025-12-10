@@ -5,6 +5,10 @@ Denna Readme är för dig vill lära dig grunderna i DOM, JavaScript, Array, Obj
 
 DOM = Document Object Model
    
-   Dom är Webbläsarens sätt att omvandla HTML till ett träd av objekt som JavaScript kan ändra.
+   Dom är Webbläsarens sätt att omvandla HTML till ett träd av objekt som JavaScript kan ändra. DOM  gör att JavaScript kan jobba med sidan medan den körs. 
+   '''cpp
+document.getElementById('title').innerHTML = 'Hej!';
+'''
+
      
    
